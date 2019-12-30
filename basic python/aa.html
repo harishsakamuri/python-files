@@ -1,0 +1,7 @@
+a=open("read_py.html","r")
+for i in a:
+    if "<li>" in i:
+        a=i.strip("<li>" and "</li>")
+        print(a)
+        
+        

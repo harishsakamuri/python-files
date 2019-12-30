@@ -1,0 +1,5 @@
+sports_tuple = ('Cricket', 'Basketball', 'Football')
+sports_list = list(sports_tuple)
+sports_list.append('Baseball')
+print(sports_list)
+print(sports_tuple)

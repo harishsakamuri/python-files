@@ -1,0 +1,3 @@
+name harish
+dept ece
+sec c

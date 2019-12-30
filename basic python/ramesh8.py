@@ -1,0 +1,7 @@
+fruit_tuple=("apple","banana","chery")
+flist=list(fruit_tuple)
+print(flist)
+flist.append("govava")
+print(flist)
+flist.insert(4,"mango")
+print(flist)
